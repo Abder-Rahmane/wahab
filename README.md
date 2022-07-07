@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impre-visible&label=Profile%20views&color=0e75b6&style=flat" alt="impre-visible" /> </p>
 
 
-- 🔭 I’m currently working on how to dev a VSCode extension
+- 🔭 I am currently working on click and collect
 
 - 🌱 I’m currently learning **C#**
 
